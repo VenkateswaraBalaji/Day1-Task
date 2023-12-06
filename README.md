@@ -62,6 +62,7 @@ TLS authentication features help in connection errors and improper security reas
 The cache maintenance feature is enhanced with the server push mechanism which helps to cancel the pushed stream if it already exists in the local cache.
 
 Objects and its internal representation in Javascript
+
 Object
 An object is a stand-alone entity or element, which contains different properties and belongs to a single type. It can also be defined as an unordered collection of related data of primitive or reference types. Every data item is an object in Javascript which can be strings, numbers, booleans, dates, null, undefined, and math expressions as well. The context of an object would be in the form of Key-value pairs where keys can be variables or functions and also called properties and methods. Functions that receive properties and return values are objects themselves.
 
